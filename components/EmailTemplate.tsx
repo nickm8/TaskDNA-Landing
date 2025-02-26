@@ -20,7 +20,7 @@ export const EmailTemplate = () => {
               style={text}
             >{`Big welcome and thanks for subscribing to ${process.env.NEXT_PUBLIC_SITE_NAME}`}</Text>
             <Text style={text}>
-              We'll keep you updated with important announcements and news.
+              We&apos;ll keep you updated with important announcements and news.
             </Text>
             <Text style={text}>
               Ty for your interest ❤️
